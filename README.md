@@ -16,7 +16,9 @@
 
 ## 📸 Premium Interface
 <div align="center">
-  <img src="1001023888.jpg" alt="Zakat Calculator Interface" width="700" style="border-radius: 10px;">
+  <!-- <img src="zakat-img-01.png" alt="Zakat Calculator Interface" width="700" style="border-radius: 10px;">
+  <img src="zakat-img-01.png" alt="Zakat Calculator" width="700"> -->
+  <img src="zakat-img-01.png" alt="Zakat Calculator Interface" width="700" style="border-radius: 10px;">
   <p><i>Clean, intuitive, and modern user interface</i></p>
 </div>
 
