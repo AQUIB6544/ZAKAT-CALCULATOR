@@ -88,7 +88,7 @@ This project was built using modern, fast, and reliable web technologies:
 Developed with ❤️ and passion by **Mohd Aquib**, a Data Science student and Web Developer from Aligarh.
 
 * 📧 **Email:** [mohdaquib195@gmail.com](mailto:mohdaquib195@gmail.com)
-* 🌐 **GitHub:** [@Aquib195](https://github.com/Aquib6544)
+* 🌐 **GitHub:** [@Aquib6544](https://github.com/Aquib6544)
 * 💼 **Portfolio / Live Site:** [Zakat Calculator](https://zakatcalculator-aquib.netlify.app/)
 
 <div align="center">
